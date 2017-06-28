@@ -1,0 +1,12 @@
+{
+  "name": "pm2-custom",
+  "version": "1.0.0",
+  "description": "Only expose the custom API from PM2, do not automatically create an API instance",
+  "main": "index.js",
+  "repository": "git@github.com:octoblu/pm2-custom.git",
+  "author": "Octoblu <npm@octoblu.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pm2": "^2.5.0"
+  }
+}
